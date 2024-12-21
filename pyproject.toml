@@ -23,6 +23,7 @@ dependencies = [
     "autogen-agentchat>=0.2.40",
     "matplotlib>=3.10.0",
     "langchain-openai>=0.2.11",
+    "dspy>=2.5.7",
 ]
 
 
